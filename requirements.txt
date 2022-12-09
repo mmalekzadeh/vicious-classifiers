@@ -1,0 +1,9 @@
+imageio==2.22.4
+matplotlib==3.6.2
+numpy==1.23.5
+piq==0.7.0
+scikit_learn==1.2.0
+torch==1.13.0
+torch_summary==1.4.5
+torchsummary==1.5.1
+torchvision==0.14.0
