@@ -1,4 +1,4 @@
-# Vicious Classifiers: Data Reconstruction Attack at Inference Time
+# Vicious Classifiers: Assessing Inference-time Data Reconstruction Risk in Edge Computing
 
 **ArXiv PDF**: https://arxiv.org/abs/2212.04223
 
